@@ -9,4 +9,4 @@ My main language is PHP (take the time to inform yourself before "shitting" on P
 I also serve as a sysadmin.
 
 [LOVE](https://alois.xyz/love)
-# <!-- begin_number_heart -->0<!-- end_number_heart --> ❤️
+# <!-- begin_number_heart -->1<!-- end_number_heart -->❤️
