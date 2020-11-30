@@ -5,5 +5,5 @@
 -->
 
 ## I'm the main developer of https://live.alois.xyz .
-My main language is PHP (take the time to inform yourself before "shitting" on PHP, v7.4 is really dfferent from v4).
+My main languages are Go, PHP, js, "html", Bah.
 I also serve as a sysadmin.
