@@ -4,8 +4,12 @@
 **ithirzty/ithirzty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I'm the main developer of https://squeaker.xyz .
-My main languages are Go, js, "html".
+## I'm the main developer of [squeaker](https://squeaker.xyz) && [bah-lang](https://bah-lang.xyz).
+My main languages are Go, js, "html", C and Bah.
 I also serve as a sysadmin.
 
-#### current working repository <a href="https://github.com/ithirzty/goact">goact</a>
+## What am I doing in my free time?
+- Making my own labguage ([bah](https://github.com/ithirzty/bahv4-installer))
+- Making libraries for my own language
+- Making a [website](https://bah-lang.xyz) for my language
+- Not sleeping
