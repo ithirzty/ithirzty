@@ -16,3 +16,4 @@ I also serve as a sysadmin.
 - Making libraries for my own language
 - Making a [website](https://bah-lang.xyz) for my language
 - Not sleeping
+- Sometime making changes to [my other website](https://squeaker.live)
