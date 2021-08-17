@@ -8,6 +8,9 @@
 My main languages are Go, js, "html", C and Bah.
 I also serve as a sysadmin.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ithirzty&hide=contribs,prs)
+
+
 ## What am I doing in my free time?
 - Making my own labguage ([bah](https://github.com/ithirzty/bahv4-installer))
 - Making libraries for my own language
