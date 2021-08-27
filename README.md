@@ -12,7 +12,7 @@ I also serve as a sysadmin.
 
 
 ## What am I doing in my free time?
-- Making my own labguage ([bah](https://github.com/ithirzty/bahv4-installer))
+- Making my own labguage ([bah](https://github.com/ithirzty/bah))
 - Making libraries for my own language
 - Making a [website](https://bah-lang.xyz) for my language
 - Not sleeping
