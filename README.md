@@ -1,4 +1,4 @@
-### Hi there 👋
+### [alois.xyz](https://alois.xyz)
 
 <!--
 **ithirzty/ithirzty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,9 +6,9 @@
 
 > My main interest is in developing programing languages.
 
-**I'm the main developer of [squeaker](https://squeaker.live) && [bah-lang](https://bah-lang.xyz).**
-My main languages are Go, js, "html", C and Bah.
-I also serve as a sysadmin.
+**I'm the developer of [bah-lang](https://bah-lang.xyz).**
+
+My main languages are Go, web languages, C and Bah.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ithirzty&hide=contribs,prs)
 
@@ -18,4 +18,3 @@ I also serve as a sysadmin.
 - Making libraries for my own language
 - Making a [website](https://bah-lang.xyz) for my language
 - Not sleeping
-- Sometime making changes to [my other website](https://squeaker.live)
